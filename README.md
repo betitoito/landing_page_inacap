@@ -9,4 +9,4 @@ Además, se buscó hacer la página lo más intuitiva posible para que los clien
 
 A pesar de que el proyecto presentó algunos obstáculos, se logró conseguir el objetivo final y crear una página web que cumpliera con las expectativas de la empresa. Se trabajó arduamente para lograr una página de calidad que reflejara la imagen de la empresa y que fuera de utilidad para sus clientes.
 
-Esperamos que esta página web sea de gran utilidad para los clientes de la empresa y les facilite el acceso a los servicios de transporte que necesiten. Agradecemos su interés y confianza en nuestra empresa y esperamos seguir trabajando juntos en el futuro.
+Esperamos que esta página web sea de gran utilidad para los clientes de la empresa y les facilite el acceso a los servicios de transporte que necesiten.
